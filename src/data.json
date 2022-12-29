@@ -1,0 +1,79 @@
+[
+    {
+        "idkey": 1,
+        "imagen": "../public/img/avatar-mark-webber.webp",
+        "username": "mark webber",
+        "accion": "reacted to your recent post",
+        "procedente": "My first toumament today!",
+        "fecha": "1m",
+        "extraType": "",
+        "extraRecurso": "",
+        "visto": false
+    },
+    {
+        "idkey": 2,
+        "imagen": "../public/img/avatar-angela-gray.webp",
+        "username": "angela gray",
+        "accion": "followed you",
+        "procedente": "",
+        "fecha": "5m",
+        "extraType": "",
+        "extraRecurso": "",
+        "visto": false
+    },
+    {
+        "idkey": 3,
+        "imagen": "../public/img/avatar-jacob-thompson.webp",
+        "username": "jacob thompson",
+        "accion": "has joined your group",
+        "procedente": "Chess Club",
+        "fecha": "1 day",
+        "extraType": "",
+        "extraRecurso": "",
+        "visto": false
+    },
+    {
+        "idkey": 4,
+        "imagen": "../public/img/avatar-rizky-hasanuddin.webp",
+        "username": "rizky hasanuddin",
+        "accion": "sent you a private message",
+        "procedente": "",
+        "fecha": "5 days",
+        "extraType": "message",
+        "extraRecurso": "Hello, thanks for setting up the Chess Club. I've been a member for a few wees now and I'm already having lots of fun and improving my game.",
+        "visto": true
+    },
+    {
+        "idkey": 5,
+        "imagen": "../public/img/avatar-kimberly-smith.webp",
+        "username": "kimberly smith",
+        "accion": "commented on your picture",
+        "procedente": "",
+        "fecha": "1 week",
+        "extraType": "picture",
+        "extraRecurso": "../public/img/image-chess.webp",
+        "visto": true
+    },
+    {
+        "idkey": 6,
+        "imagen": "../public/img/avatar-nathan-peterson.webp",
+        "username": "nathan peterson",
+        "accion": "reacted to your recent post",
+        "procedente": "5 end-game strategies to increase your win rate",
+        "fecha": "2 week",
+        "extraType": "",
+        "extraRecurso": "",
+        "visto": true
+    },
+    {
+        "idkey": 7,
+        "imagen": "../public/img/avatar-anna-kim.webp",
+        "username": "anna kim",
+        "accion": "left the group",
+        "procedente": "Chess Club",
+        "fecha": "2 week",
+        "extraType": "",
+        "extraRecurso": "",
+        "visto": true
+    }
+]
